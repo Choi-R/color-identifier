@@ -1,0 +1,11 @@
+{
+    "name": "choipixel",
+    "compatibility_date": "2025-02-01",
+    "assets": {
+        "directory": ".",
+        "binding": "ASSETS"
+    },
+    "observability": {
+        "enabled": true
+    }
+}
