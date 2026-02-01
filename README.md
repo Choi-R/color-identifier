@@ -2,9 +2,6 @@
 
 ChoiPixel is a sleek, high-performance web application that allows users to extract precise color data from any image. Built entirely with **Vanilla JavaScript, HTML5, and CSS3**, it demonstrates the power of modern web standards without the bloat of external libraries.
 
-![Project Preview](https://via.placeholder.com/1200x600/0f172a/3b82f6?text=ChoiPixel+Preview)
-*(Note: Replace with actual screenshot)*
-
 ## ✨ Key Features
 
 - **Zero Dependencies**: Lightweight and fast, built using only native web technologies.
@@ -36,25 +33,13 @@ You need a modern web browser to run this application. No installation is requir
 ### Local Development
 1. Clone the repository:
    ```bash
-   git clone https://github.com/choi-pixel/pixelpick.git
+   git clone https://github.com/Choi-R/color-identifier.git
    ```
 2. Open `index.html` in your browser.
    
    *Or use a local server for the best experience:*
    ```bash
    npx serve .
-   ```
-
-### Deployment (Cloudflare)
-This project is configured for Cloudflare Pages / Workers Assets.
-
-1. Install Wrangler:
-   ```bash
-   npm install -g wrangler
-   ```
-2. Deploy:
-   ```bash
-   wrangler deploy
    ```
 
 ## 🎮 How to Use
